@@ -1,4 +1,3 @@
-package gen_Question;
 
 public class AdvanceCalculator {
 	public static void main(String[] args) {
